@@ -6,3 +6,9 @@ Simple x5t validator for JWK Set URL
 ```
 ./validate-x5t.sh [URL]
 ```
+
+# Docker usage
+
+```
+docker run --rm zuldigital/jwks-x5t-validator [URL]
+```
